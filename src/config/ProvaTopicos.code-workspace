@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Prova\\FRONT"
+		},
+		{
+			"path": "..\\..\\..\\..\\Prova\\API"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PedroAugustoDeCamargoNeto_PRODUTOS"
+	}
+}
