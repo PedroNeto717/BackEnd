@@ -1,0 +1,22 @@
+//CADASTROS
+
+###
+POST http://localhost:3000/computador/cadastrar
+Content-Type: application/json
+
+{
+    "dono": "Pedro",
+    "placamae": "B350",
+    "processador": "Ryzen 3",
+    "memoria": 8,
+    "armazenamento": "2tb",
+    "fonte": "450w"
+}
+
+//LISTAGEM
+###
+GET http://localhost:3000/computador/listar
+
+//REMOVER
+###
+DELETE   http://localhost:3000/computador/remover/60e5a52848f76835e073804f
